@@ -52,6 +52,8 @@ public class E18_EligePrimero {
 
         String[] nombres = {"Mar","Isabel","Ivan","Pol","Eva","Ruth"};
 
+        String m08 = "frase per nou commit";
+        
         boolean continuar = true;
         while (continuar){
 
